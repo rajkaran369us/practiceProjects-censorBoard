@@ -1,0 +1,21 @@
+{
+    "author": "Karan Raj",
+    "name": "censorboard",
+    "version": "0.1.1",
+    "description": "Karan's strict censor board",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/rajkaran369us/practiceProjects-censorBoard.git"
+    },
+    "keywords": [
+        "censor",
+        "words",
+        "censorboard"
+    ],
+    "dependencies": {},
+    "engines": {
+        "node":"*"
+    }
+
+}
